@@ -106,7 +106,13 @@ class _MainAppState extends State<MainApp> {
   }
 
   _loading() {
-    return Container();
+    return const Center(
+      child: CircularProgressIndicator(
+        value: null,
+        strokeWidth: 4.0,
+        color: Colors.white,
+      ),
+    );
   }
 
   _sucess() {
@@ -322,7 +328,7 @@ class _MainAppState extends State<MainApp> {
           },
           child: const Text('Try Again'),
           style: ElevatedButton.styleFrom(
-              primary: Colors.blueGrey,
+              primary: Colors.grey[600],
               padding: const EdgeInsets.symmetric(horizontal: 50, vertical: 20),
               textStyle:
                   const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
