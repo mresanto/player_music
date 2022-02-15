@@ -1,0 +1,60 @@
+{
+    "Songs": [
+        {
+            "id": 0,
+            "singer": "Someone",
+            "title": "Stylish Rock",
+            "url": "https://audio-previews.elements.envatousercontent.com/files/255880505/preview.mp3?response-content-disposition=attachment%3B+filename%3D%22A3JBZ8G-stylish-rock.mp3%22",
+            "coverUrl": "https://asset.onemusic.ph/assetsonemusicph/media/articles/1472271693_Fashionable-Musicians-Landing.jpg",
+            "color": "grey"
+        },
+        {
+            "id": 1,
+            "singer": "Someone",
+            "title": "Limitless Rock",
+            "url": "https://audio-previews.elements.envatousercontent.com/files/273404201/preview.mp3?response-content-disposition=attachment%3B+filename%3D%22BN3DT6R-limitless-rock.mp3%22",
+            "coverUrl": "https://i.discogs.com/kPqJoIcDzMMhu1Cn8RO97xbAk4AKOg08zsunummHvIM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWltYWdlcy9SLTk5/NDk5NjktMTQ5MDM3/Mzk3OC01ODU4Lmpw/ZWc.jpeg",
+            "color": "purple"
+        },
+        {
+            "id": 2,
+            "singer": "Someone",
+            "title" : "Epic Rock Trailer",
+            "url" : "https://audio-previews.elements.envatousercontent.com/files/304442962/preview.mp3?response-content-disposition=attachment%3B+filename%3D%22Z7GCESY-epic-rock-trailer.mp3%22",
+            "coverUrl": "https://i.ytimg.com/vi/MC1D9dkFMjQ/maxresdefault.jpg",
+            "color" : "orange"
+        },
+        {
+            "id": 3,
+            "singer": "Ahjay Stelino",
+            "title" : "Sports Highlights",
+            "url" : "https://assets.mixkit.co/music/preview/mixkit-sports-highlights-51.mp3",
+            "coverUrl": "https://scontent.fcgh4-1.fna.fbcdn.net/v/t1.6435-9/98183795_111500757230823_779962955692244992_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHlDxyKiv6MKiJNe9aw2cxsUbUUgfy5sLtRtRSB_Lmwu8iaTfjYD2BPp7jvGOFkdLvT5zSuNWX2PGF8prE8lLNk&_nc_ohc=b2K2-YIEyxoAX99_PFh&tn=A25QneeKD1avvkY9&_nc_ht=scontent.fcgh4-1.fna&oh=00_AT_13827WV1Dkb34Bi4IB4u5dWULgW5oItbf2hnVZjysog&oe=6225A4B3",
+            "color" : "green"
+        },
+        {
+            "id": 4,
+            "singer": "Ahjay Stelino",
+            "title" : "Daredevil",
+            "url" : "https://assets.mixkit.co/music/preview/mixkit-daredevil-80.mp3",
+            "coverUrl": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_.jpg",
+            "color" : "red"
+        },
+        {
+            "id": 5,
+            "singer": "Eugenio Mininni",
+            "title" : "A Love Theme",
+            "url" : "https://assets.mixkit.co/music/preview/mixkit-a-love-theme-542.mp3",
+            "coverUrl": "https://image.winudf.com/v2/image/Y29tLnZhbGVudGluZS5sb3ZlLmhlYXJ0cy5iYWxsb29uLnRoZW1lX3NjcmVlbl8wXzE1MjcyMzE1MzJfMDE3/screen-0.jpg?h=355&fakeurl=1&type=.jpg",
+            "color" : "pink"
+        },
+        {
+            "id": 6,
+            "singer": "Eugenio Mininni",
+            "title" : "Secret Garden",
+            "url" : "https://assets.mixkit.co/music/preview/mixkit-secret-garden-595.mp3",
+            "coverUrl": "https://m.media-amazon.com/images/M/MV5BNzQ4OGU3NjUtOGRiNS00NmFkLWE4MmMtODhiNmJjMjBmZWNjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "color" : "yellow"
+        }
+    ]
+}
